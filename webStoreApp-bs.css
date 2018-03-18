@@ -1,0 +1,74 @@
+#body-bkg {
+    /* border: 2px solid black; */
+    /* padding: 25px; */
+    background-image: url("./bicycle-images/trail-biking.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#jumbo1 {
+    opacity: .8;
+    color: brown; 
+    font-style: italic;
+}
+
+#jumbo-hdr { 
+    font-family: Ubuntu; 
+    font-size: 70px;
+}
+
+.font-ubuntu {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    font-family: Ubuntu;
+}
+
+#row-brands { 
+    padding-top: 50px;
+    padding-bottom: 25px;
+    color: rgb(240, 225, 90); 
+    text-align: center; 
+    font-style: italic; 
+    font-size: 40px; 
+    font-family: Ubuntu;
+}
+
+#row-ancillary { 
+    padding: 25px;
+    color: rgb(240, 225, 90); 
+    text-align: center; 
+    font-style: italic; 
+    font-size: 40px; 
+    font-family: Ubuntu;
+}
+
+.col-md-3 {
+    opacity: 1;
+}
+
+.col-md-4 {
+    opacity: 1;
+}
+
+.img-responsive {
+    padding-top: 20px;
+}
+
+.button {
+    color: rgb(54, 109, 190);
+    background-color: rgba(238, 208, 169, 0.644);
+    display: inline-block;
+    margin: 0 0.75em 0 0;
+    padding: 0.2em 0.5em;
+    border: 2px solid rgb(198, 154, 34);
+    box-shadow: 1px 1px 5px #777;/* offset-x | offset-y | blur-radius | color */
+    border-radius: 3px;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #FBF3DB;
+    border: 3px solid #745b2f;
+    box-shadow: 1px 1px 10px #745b2f;/* offset-x | offset-y | blur-radius | color */
+}

@@ -1,0 +1,441 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "BrowserWindow",
+                    "zOrder": "1",
+                    "w": "837",
+                    "h": "610",
+                    "measuredW": "450",
+                    "measuredH": "400",
+                    "x": "4169",
+                    "y": "33"
+                },
+                {
+                    "ID": "1",
+                    "typeID": "Canvas",
+                    "zOrder": "2",
+                    "w": "257",
+                    "h": "170",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "70",
+                    "y": "371",
+                    "locked": "true"
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Canvas",
+                    "zOrder": "3",
+                    "w": "806",
+                    "h": "35",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "69",
+                    "y": "551"
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Canvas",
+                    "zOrder": "4",
+                    "w": "254",
+                    "h": "170",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "338",
+                    "y": "371",
+                    "locked": "true"
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Canvas",
+                    "zOrder": "5",
+                    "w": "265",
+                    "h": "170",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "607",
+                    "y": "371",
+                    "locked": "true"
+                },
+                {
+                    "ID": "6",
+                    "typeID": "Canvas",
+                    "zOrder": "6",
+                    "w": "195",
+                    "h": "142",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "71",
+                    "y": "219",
+                    "locked": "true"
+                },
+                {
+                    "ID": "7",
+                    "typeID": "Canvas",
+                    "zOrder": "7",
+                    "w": "187",
+                    "h": "142",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "279",
+                    "y": "219",
+                    "locked": "true"
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Canvas",
+                    "zOrder": "8",
+                    "w": "189",
+                    "h": "142",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "683",
+                    "y": "219",
+                    "locked": "true"
+                },
+                {
+                    "ID": "9",
+                    "typeID": "Canvas",
+                    "zOrder": "9",
+                    "w": "664",
+                    "h": "98",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "144",
+                    "y": "94",
+                    "locked": "true"
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Title",
+                    "zOrder": "10",
+                    "w": "381",
+                    "measuredW": "350",
+                    "measuredH": "44",
+                    "x": "160",
+                    "y": "94",
+                    "locked": "true",
+                    "properties": {
+                        "text": "The Bicycle Garage",
+                        "color": "7880452"
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "Canvas",
+                    "zOrder": "11",
+                    "w": "191",
+                    "h": "142",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "479",
+                    "y": "219",
+                    "locked": "true"
+                },
+                {
+                    "ID": "15",
+                    "typeID": "LinkBar",
+                    "zOrder": "12",
+                    "measuredW": "114",
+                    "measuredH": "21",
+                    "x": "79",
+                    "y": "58",
+                    "locked": "true",
+                    "properties": {
+                        "text": "The Bicycle Garage "
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Canvas",
+                    "zOrder": "0",
+                    "w": "800",
+                    "h": "41",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "72",
+                    "y": "48",
+                    "locked": "true"
+                },
+                {
+                    "ID": "17",
+                    "typeID": "Button",
+                    "zOrder": "13",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "209",
+                    "y": "55",
+                    "locked": "true"
+                },
+                {
+                    "ID": "18",
+                    "typeID": "TextInput",
+                    "zOrder": "14",
+                    "w": "105",
+                    "measuredW": "79",
+                    "measuredH": "27",
+                    "x": "682",
+                    "y": "56",
+                    "locked": "true"
+                },
+                {
+                    "ID": "21",
+                    "typeID": "BlockOfText",
+                    "zOrder": "15",
+                    "w": "624",
+                    "h": "47",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "160",
+                    "y": "138",
+                    "locked": "true"
+                },
+                {
+                    "ID": "22",
+                    "typeID": "SubTitle",
+                    "zOrder": "16",
+                    "measuredW": "75",
+                    "measuredH": "28",
+                    "x": "434",
+                    "y": "192",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Brands"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "SubTitle",
+                    "zOrder": "17",
+                    "measuredW": "48",
+                    "measuredH": "28",
+                    "x": "145",
+                    "y": "233",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Trek"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "SubTitle",
+                    "zOrder": "18",
+                    "measuredW": "130",
+                    "measuredH": "28",
+                    "x": "308",
+                    "y": "233",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Cannondale"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "SubTitle",
+                    "zOrder": "19",
+                    "measuredW": "90",
+                    "measuredH": "28",
+                    "x": "530",
+                    "y": "233",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Schwinn"
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "SubTitle",
+                    "zOrder": "20",
+                    "measuredW": "51",
+                    "measuredH": "28",
+                    "x": "752",
+                    "y": "233",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Bulls"
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "SubTitle",
+                    "zOrder": "21",
+                    "measuredW": "85",
+                    "measuredH": "28",
+                    "x": "87",
+                    "y": "387",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Service"
+                    }
+                },
+                {
+                    "ID": "28",
+                    "typeID": "SubTitle",
+                    "zOrder": "22",
+                    "measuredW": "134",
+                    "measuredH": "28",
+                    "x": "354",
+                    "y": "387",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Accessories"
+                    }
+                },
+                {
+                    "ID": "29",
+                    "typeID": "SubTitle",
+                    "zOrder": "23",
+                    "measuredW": "76",
+                    "measuredH": "28",
+                    "x": "619",
+                    "y": "387",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Events"
+                    }
+                },
+                {
+                    "ID": "30",
+                    "typeID": "BlockOfText",
+                    "zOrder": "24",
+                    "w": "236",
+                    "h": "59",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "81",
+                    "y": "451",
+                    "locked": "true"
+                },
+                {
+                    "ID": "31",
+                    "typeID": "BlockOfText",
+                    "zOrder": "25",
+                    "w": "230",
+                    "h": "57",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "350",
+                    "y": "452",
+                    "locked": "true"
+                },
+                {
+                    "ID": "32",
+                    "typeID": "BlockOfText",
+                    "zOrder": "26",
+                    "w": "243",
+                    "h": "48",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "613",
+                    "y": "452",
+                    "locked": "true"
+                },
+                {
+                    "ID": "33",
+                    "typeID": "Button",
+                    "zOrder": "27",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "83",
+                    "y": "508",
+                    "locked": "true"
+                },
+                {
+                    "ID": "34",
+                    "typeID": "Button",
+                    "zOrder": "28",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "350",
+                    "y": "508",
+                    "locked": "true"
+                },
+                {
+                    "ID": "35",
+                    "typeID": "Button",
+                    "zOrder": "29",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "620",
+                    "y": "508",
+                    "locked": "true"
+                },
+                {
+                    "ID": "36",
+                    "typeID": "Button",
+                    "zOrder": "30",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "79",
+                    "y": "326",
+                    "locked": "true"
+                },
+                {
+                    "ID": "37",
+                    "typeID": "Button",
+                    "zOrder": "31",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "287",
+                    "y": "326",
+                    "locked": "true"
+                },
+                {
+                    "ID": "38",
+                    "typeID": "Button",
+                    "zOrder": "32",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "489",
+                    "y": "326",
+                    "locked": "true"
+                },
+                {
+                    "ID": "39",
+                    "typeID": "Button",
+                    "zOrder": "33",
+                    "measuredW": "62",
+                    "measuredH": "27",
+                    "x": "690",
+                    "y": "326",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Button"
+                    }
+                },
+                {
+                    "ID": "40",
+                    "typeID": "SearchBox",
+                    "zOrder": "34",
+                    "w": "70",
+                    "measuredW": "120",
+                    "measuredH": "25",
+                    "x": "792",
+                    "y": "57",
+                    "locked": "true"
+                },
+                {
+                    "ID": "43",
+                    "typeID": "LinkBar",
+                    "zOrder": "35",
+                    "measuredW": "253",
+                    "measuredH": "21",
+                    "x": "312",
+                    "y": "558",
+                    "locked": "true",
+                    "properties": {
+                        "text": "Privacy Policy, Terms of Use, Copyright"
+                    }
+                }
+            ]
+        },
+        "mockupH": "610",
+        "mockupW": "4937",
+        "measuredW": "5006",
+        "measuredH": "643",
+        "version": "1.0"
+    }
+}
